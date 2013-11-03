@@ -1,4 +1,6 @@
+<p class="pkg_mgr_desc">
 get/set bluetooth power and discoverable state
+</p>
 
     blueutil - show state
     blueutil power|discoverable - show state 1 or 0
